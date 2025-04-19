@@ -68,7 +68,7 @@ Cross-Validation Accuracy: 96.67% ± 2.11%
 ## ✅ Conclusion
 | Platform     | Accuracy |
 |--------------|----------|
-| RapidMiner   | ~96%     |
+| RapidMiner(CV)   | ~96%     |
 | Python       | ~100%               |
 | Python(CV)   | ~96.67% ± 2.11%%    |
 
