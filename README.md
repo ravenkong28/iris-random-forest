@@ -34,7 +34,6 @@ Inside the Cross Validation process, the Random Forest model is trained and test
 - Feature importance visualized
 
 ## 📊 Results
-
 ### 📈 RapidMiner Results
 ![Gambar2 - RapidMiner Accuracy & Confusion Matrix](/images/Gambar2.png)
 
